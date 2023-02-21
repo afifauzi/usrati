@@ -1,0 +1,18 @@
+.button{
+    position:absolute; 
+  display: inline-block;
+  top:20%; 
+  left:50%; 
+  right:50%;
+  width:405px; 
+  border: 5px solid #fcfcfc; 
+  line-height: 40px; 
+  margin-top:-20px; 
+  margin-left:-220px; 
+}
+
+.gambar{
+    width:200px; 
+    left:50%; 
+    right:50%;
+}
